@@ -1,2 +1,2 @@
-# MK
-THIS IS MY FIRST REPO
+# mini-project
+facial recognition attendance system 
